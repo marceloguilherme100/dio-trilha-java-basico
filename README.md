@@ -17,13 +17,13 @@ O projeto ContaBanco consiste em uma aplicação Java que permite ao usuário in
 
 ```
 Por favor, digite o número da Agência:
-067-8
+0673050-8
 Por favor, digite o número da Conta:
-1021
+2024
 Por favor, digite o nome do Cliente:
 MARCELO SILVA
 Por favor, digite o saldo:
-237.48
+3.500
 ```
 
 ```
